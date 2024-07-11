@@ -7,7 +7,7 @@ UbitScan is a tool designed to simplify the tracking of transactions and balance
 
 ## Features
 
-![image](https://github.com/ayushsingh82/NibiScan/assets/121667116/10f128d2-789f-4195-aee1-ef005e73d21e)
+
 
 
 
