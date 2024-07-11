@@ -104,7 +104,7 @@ function Search(props) {
             type='text'
             id='myInput'
             value={inputValue}
-            placeholder='Type- name.nibi'
+            placeholder='Type- name.ubit'
             onChange={handleInputChange}
           />
           <div className='flex items-center mr-[5px] text-slate-800'>

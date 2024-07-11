@@ -15,7 +15,7 @@ function Header() {
      text-transparent
      bg-clip-text   
      hover:scale-110 transition-all duration-500 ease-in-out'>
-    <span className='shadow-lg shadow-purple-400 '>NibiruScan</span></h1>
+    <span className='shadow-lg shadow-purple-400 '>UBITScan</span></h1>
     <div className='flex gap-x-5 text-2xl mt-[70px] mr-[10px] lg:ml-[1100px] ml-[400px]'>
     {/* <NavLink
     to="https://www.linkedin.com/in/ayush-singh-02b978248"
@@ -38,10 +38,10 @@ function Header() {
     <span className='text-5xl font-medium bg-gradient-to-l from-green-300 via-blue-500 to-purple-600 text-transparent bg-clip-text shadow-sm '>Get Every Thing From</span>
     <br/>
     <br/>
-    <span className='text-5xl font-medium bg-gradient-to-l from-gray-900 via-purple-900 to-violet-600 text-transparent bg-clip-text shadow-sm'>Nibi Domain</span>  </h1>
+    <span className='text-5xl font-medium bg-gradient-to-l from-gray-900 via-purple-900 to-violet-600 text-transparent bg-clip-text shadow-sm'>UBIT Domain</span>  </h1>
     <br/>
     <br/>
-    <p className='text-2xl text-slate-800'>Enter name.nibi to get details</p>
+    <p className='text-2xl text-slate-800'>Enter name.ubit to get details</p>
   </div>
   </>
   )
