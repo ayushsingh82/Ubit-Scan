@@ -1,8 +1,9 @@
-# NibiScan
+# UbitScan
 
 ## Introduction
 
-NibiScan is a tool designed to simplify the tracking of transactions and balances within the nibi domain. Tracking transactions and balances through the nibi domain can be challenging, so NibiScan aims to provide a one-stop solution for tracking addresses, balances, internal transactions, and external transactions.
+UbitScan is a tool designed to simplify the tracking of transactions and balances within the ubit domain. Tracking transactions and balances through the ubit domain can be challenging, so UbitScan aims to provide a one-stop solution for tracking addresses, balances, internal transactions, and external transactions. We have connected .eth to .ubit through ICNS (Interchain naming system) https://app.icns.xyz/
+
 
 ## Features
 
@@ -10,19 +11,22 @@ NibiScan is a tool designed to simplify the tracking of transactions and balance
 
 
 
-- **Address Tracking**: Easily track addresses within the nibi domain.
+- **Address Tracking**: Easily track addresses within the ubit domain.
 - **Balance Monitoring**: Keep an eye on the balance of addresses.
-- **Internal Transaction Tracking**: Monitor internal transactions within the nibi domain.
-- **External Transaction Tracking**: Track external transactions involving nibi domain addresses.
-- **Comprehensive Portfolio Overview**: NibiScan provides a comprehensive overview of your Scroll domain portfolio, including detailed information such as time, hash, and more.
-- **Future Development**: The future goal of NibiScan is to evolve into a complete portfolio tracker for Nibi. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
+- **Internal Transaction Tracking**: Monitor internal transactions within the ubit domain.
+- **External Transaction Tracking**: Track external transactions involving ubit domain addresses.
+- **Comprehensive Portfolio Overview**: UbitScan provides a comprehensive overview of your UBIT domain portfolio, including detailed information such as time, hash, and more.
+- **Future Development**: The future goal of UbitScan is to evolve into a complete portfolio tracker for UBIT. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
+
+- ![image](https://github.com/ayushsingh82/Ubit-Scan/assets/121667116/7c28a30c-0e45-449e-8d47-38089deb8052)
+
 
 
 
 
 ## How It Works
 
-NibiScan utilizes the .nibi domain to access and track transactions and balances within the Nibi ecosystem. By leveraging this domain, NibiScan can provide users with real-time insights into their nibi domain activities.
+UbitScan utilizes the .ubit domain to access and track transactions and balances within the UBIT ecosystem. By leveraging this domain, UbitScan can provide users with real-time insights into their ubit domain activities.
 
 
 # React + Vite
