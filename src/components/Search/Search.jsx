@@ -79,8 +79,8 @@ function Search(props) {
 
   const handleSearch = async () => {
     console.log('Search clicked with value:', inputValue);
-    if (inputValue === 'john.nibi') {
-      setDomains([{ resolvedAddress: { id: 'nibi130q4zcu83z7lmampef0dfe5wusmmd29ye8fdww' } }]);
+    if (inputValue === 'vitalik.ubit') {
+      setDomains([{ resolvedAddress: { id: '0xd8da6bf26964af9d7eed9e03e53415d37aa96045' } }]);
     } else {
       getDomains();
     }
